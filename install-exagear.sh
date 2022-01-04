@@ -17,11 +17,8 @@ sudo dpkg -i exagear-guest-debian-9_3428_all.deb
 #sudo dpkg -i exagear_3428-1_arm64.deb
 #sudo dpkg -i exagear-dsound-server_010_arm64.deb
 #sudo dpkg -i exagear-guest-debian-9_3428_all.deb
-fi
+
 echo "Applying Patch"
 curl https://archive.org/download/exagear-desktop_202111/patch.sh | sudo bash
 echo "Finishing Up..."
 sudo apt autoremove -y
-else
-echo "Sorry but you don't seem to be running an RPi"
-fi
