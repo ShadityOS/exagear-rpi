@@ -3,7 +3,7 @@ Install Exagear on the Raspberry Pi using a simple setup script
 ## Installation
 Installation is easy, simply run this command in the Raspberry Pi's terminal:
 ```
-wget https://raw.githubusercontent.com/ShadowNightX/exagear-rpi/master/install-exagear.sh && sudo sh install-exagear.sh
+wget https://raw.githubusercontent.com/ShadityOS/exagear-rpi/master/install-exagear.sh && sudo sh install-exagear.sh
 ```
 
 ## Usage
