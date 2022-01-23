@@ -1,4 +1,5 @@
 # Exagear RPi
+Script is thanks to [Crilum](https://github.com/Crilum)
 Install Exagear on the Raspberry Pi using a simple setup script
 ## Installation
 Installation is easy, simply run this command in the Raspberry Pi's terminal:
