@@ -1,4 +1,5 @@
 # Exagear RPi
+## NOTE: This script is deprecated and unmaintained as of the 26th of Jan 2022, you can now find the maintained version [here](https://github.com/ShadityOS/ShadityOS/blob/master/scripts/install-exagear.sh).
 Script is thanks to [Crilum](https://github.com/Crilum). 
 Install Exagear on the Raspberry Pi using a simple setup script
 ## Installation
